@@ -1,3 +1,5 @@
 temp.log 
 build/
 logs/
+test/unit_*.java
+test/*.js
